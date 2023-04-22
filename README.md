@@ -11,11 +11,8 @@
 ### Client:
 - React
 
-# 🚀 Live Demo <a name="live-demo">https://bejewelled-elf-f1e263.netlify.app</a>
+# 🚀 Live Demo <a name="https://bejewelled-elf-f1e263.netlify.app"></a>
 
-
-
-<img src="pic.png" alt="screen shot">
 
 ### Server:
 - local.
