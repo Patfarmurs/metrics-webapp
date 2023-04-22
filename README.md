@@ -1,4 +1,4 @@
-# Hogwarts Mystery 🧙
+# Hogwarts Mystery
 
 
 ## Description
@@ -11,7 +11,7 @@
 ### Client:
 - React
 
-# 🚀 Live Demo <a name="live-demo"></a>
+# 🚀 Live Demo <a name="live-demo">https://bejewelled-elf-f1e263.netlify.app</a>
 
 
 
