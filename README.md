@@ -14,6 +14,8 @@
 # 🚀 Live Demo <a name="Live Demo"></a>
 https://bejewelled-elf-f1e263.netlify.app
 
+### Loom Video Link
+https://www.loom.com/share/f0b098374a0945ae85c15c3dc3d756ca
 
 ### Server:
 - local.
