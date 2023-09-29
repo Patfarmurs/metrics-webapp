@@ -85,7 +85,7 @@ https://www.loom.com/share/f0b098374a0945ae85c15c3dc3d756ca
 ### 👤 Patrick Mukula:
 - GitHub: [@Patfarmus](https://github.com/Patfarmurs)
 - Twitter: [@MukulayengeP](https://twitter.com/MukulayengeP)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Patrick-Mukula/)
+- LinkedIn: [Patrick Mukula](https://www.linkedin.com/in/Patrick-Mukula/)
   
 # 🔭 Future Features:
 - Implement animations and transitions to the design.
